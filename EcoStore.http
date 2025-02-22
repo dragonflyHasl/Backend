@@ -1,0 +1,6 @@
+@EcoStore_HostAddress = http://localhost:5030
+
+GET {{EcoStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
