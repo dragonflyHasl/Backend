@@ -4859,23 +4859,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HENRY\\.nuget\\packages\\": {},
+    "C:\\Users\\hsuar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HENRY\\Desktop\\EcoStore\\EcoStore\\EcoStore.csproj",
+      "projectUniqueName": "D:\\Trabajos desarrollados\\Unity\\Backend\\EcoStore.csproj",
       "projectName": "EcoStore",
-      "projectPath": "C:\\Users\\HENRY\\Desktop\\EcoStore\\EcoStore\\EcoStore.csproj",
-      "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HENRY\\Desktop\\EcoStore\\EcoStore\\obj\\",
+      "projectPath": "D:\\Trabajos desarrollados\\Unity\\Backend\\EcoStore.csproj",
+      "packagesPath": "C:\\Users\\hsuar\\.nuget\\packages\\",
+      "outputPath": "D:\\Trabajos desarrollados\\Unity\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hsuar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
